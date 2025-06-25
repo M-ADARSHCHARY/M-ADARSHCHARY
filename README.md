@@ -14,14 +14,16 @@
 ## 🚀 About Me
 
 ```javascript
-const adarsh = {
+const adarshChary = {
     location: "Hyderabad, India 🇮🇳",
     education: "B.Tech CSE @ CMR Technical Campus",
     currentCgpa: "9.47/10 📚",
     currentFocus: "DSA & Full Stack Development with MERN Stack",
     askMeAbout: ["DSA","React.js", "Node.js", "MongoDB"],
+    funFact: "I can build a full-stack app but still struggle with choosing a Netflix show 🎬."
     reachMeAt: "adarshchary.05@gmail.com"
 };
+
 ```
 
 ---
