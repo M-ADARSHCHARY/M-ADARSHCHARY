@@ -100,11 +100,6 @@ const adarsh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-ADARSHCHARY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-ADARSHCHARY&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-ADARSHCHARY&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -150,10 +145,6 @@ const adarsh = {
   
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/M-ADARSHCHARY/M-ADARSHCHARY/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
