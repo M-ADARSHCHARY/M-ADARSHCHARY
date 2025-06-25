@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Adarsh Chary
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -67,6 +67,7 @@ const adarsh = {
 🔧 MongoDB schema design for blood requests & matching
 🔐 JWT authentication & Joi validation
 ⚛️ Responsive React components with Tailwind CSS
+   Ongoing..
 ```
 
 ---
@@ -151,7 +152,7 @@ const adarsh = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/M-ADARSHCHARY/M-ADARSHCHARY/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
