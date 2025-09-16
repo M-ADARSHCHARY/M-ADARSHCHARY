@@ -17,7 +17,7 @@
 const adarshChary = {
     location: "Hyderabad, India 🇮🇳",
     education: "B.Tech CSE @CMR Technical Campus",
-    currentCgpa: "9.47/10",
+    currentCgpa: "9.30/10",
     currentFocus: "DSA & Full Stack Development with MERN Stack",
     askMeAbout: ["DSA","React.js", "Node.js", "MongoDB"],
     reachMeAt: "adarshchary.05@gmail.com"
@@ -62,7 +62,7 @@ const adarshChary = {
 
 <div align="center">
 
-### 🩸 UberForBlood
+### 🩸 RakthSetu
 *Full-Stack MERN Application (Team Project)*
 ```
 🔧 MongoDB schema design for blood requests & matching
