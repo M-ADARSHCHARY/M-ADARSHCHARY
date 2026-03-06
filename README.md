@@ -17,7 +17,7 @@
 const adarshChary = {
     location: "Hyderabad, India 🇮🇳",
     education: "B.Tech CSE @CMR Technical Campus",
-    currentCgpa: "9.30/10",
+    currentCgpa: "9.17/10",
     currentFocus: "DSA & Full Stack Development with MERN Stack",
     askMeAbout: ["DSA","React.js", "Node.js", "MongoDB"],
     reachMeAt: "adarshchary.05@gmail.com"
