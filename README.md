@@ -61,16 +61,6 @@ const adarshChary = {
 ## 🎯 Featured Projects
 
 <div align="center">
-
-### 🩸 RakthSetu
-*Full-Stack MERN Application (Team Project)*
-```
-🔧 MongoDB schema design for blood requests & matching
-🔐 JWT authentication & Joi validation
-⚛️ Responsive React components with Tailwind CSS
-   Ongoing..
-```
-
 ---
 
 ### 💬 Hellow - Real-Time Chat App
