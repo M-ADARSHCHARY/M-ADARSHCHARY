@@ -78,7 +78,7 @@ const adarshChary = {
 ### 💪 Workout Tracker
 *Full-stack fitness tracking application*
 ```
-📊 Chart.js integration for workout analytics
+📊 recharts for workout analytics
 🚀 40% scalability improvement with React migration
 🔒 Secure JWT-based authentication
 ```
